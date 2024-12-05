@@ -1,1 +1,2 @@
 # Parkinsons_Disease_Prediction
+<p>This project focuses on Parkinson's disease prediction using machine learning techniques. The study involved preprocessing clinical and biomedical data, feature selection, and implementing predictive models such as Random Forest, Support Vector Machines (SVM), and Gradient Boosting. The models were evaluated using accuracy and F1 scores, demonstrating significant potential for early and accurate diagnosis of Parkinson's disease to support clinical decision-making.</p>
